@@ -4,6 +4,8 @@
     box-sizing: border-box;
     color: white;
     /* font-size: 62.5%; */
+}
+body{
     background: linear-gradient(to bottom right,green ,white,blue);
 }
 
